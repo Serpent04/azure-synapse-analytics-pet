@@ -3,7 +3,7 @@ Raw data is taken from www.nyc.gov.
 The tools used include Azure Synapse Analytics, ADLS Gen2, Microsoft Power BI.
 
 Key stages:
-- Created a resource group that include Synapse Workspace, ADLS Gen2 storage account.
+- Created a resource group that includes Synapse Workspace, ADLS Gen2 storage account.
 - Uploaded data to ADLS Gen2 container.
 - Ingested data to Synapse Workspace.
 - Discovered data.
